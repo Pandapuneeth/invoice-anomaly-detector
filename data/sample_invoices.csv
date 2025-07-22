@@ -1,8 +1,0 @@
-﻿"invoice_id,client_name,amount,date"
-"INV001,Alpha Corp,4500,2023-08-01"
-"INV002,Beta LLC,4600,2023-08-02"
-"INV003,Alpha Corp,4550,2023-08-03"
-"INV004,Delta Inc,90000,2023-08-04"
-"INV005,Gamma Ltd,4700,2023-08-05"
-"INV006,Delta Inc,1000000,2023-08-06"
-"INV007,Gamma Ltd,4700,2023-08-07"
