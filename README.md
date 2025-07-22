@@ -22,7 +22,7 @@ AI-powered Streamlit app that detects suspicious or fraudulent transactions in i
 
 ## 📂 Sample Data
 
-A sample invoice CSV is available in `/data/sample_invoices.csv`.
+A sample invoice CSV is available in `/data/final_invoice_data.csv`.
 
 ## 📦 Installation
 
